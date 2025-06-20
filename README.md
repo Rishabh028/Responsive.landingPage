@@ -26,7 +26,7 @@ Built with HTML, SCSS, and JavaScript, this project showcases a beautiful UI, sm
 
 | Hero Section | Product Cards | Footer |
 |--------------|--------------|--------|
-| ![Hero](assets/img/big%20headphone.png) | ![Products](assets/img/product1.png) | ![Footer](assets/img/logo%20(2).png) |
+| ![Hero](assets/img/home.png) | ![Products](assets/img/cart.png) | ![Footer](assets/img/footer.png) |
 
 ---
 
