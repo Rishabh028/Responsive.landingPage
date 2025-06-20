@@ -33,7 +33,7 @@ Built with HTML, SCSS, and JavaScript, this project showcases a beautiful UI, sm
 ## 🚀 Demo
 
 [**Live Demo on GitHub Pages**](https://rishabh028.github.io/Responsive.landingPage/)  
-*(Add your GitHub Pages link here after deployment)*
+
 
 ---
 
